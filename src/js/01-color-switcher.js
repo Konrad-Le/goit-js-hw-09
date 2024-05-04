@@ -24,4 +24,3 @@ document.querySelector("[data-stop]").addEventListener('click',function(){
     clearTimeout(a);
 });
 
-// koniec
